@@ -33,6 +33,7 @@ h2 {
 }
 #reset-btn{
     background: #880000;
+    border-radius: 7px;
 }
 #delete-btn{
     background: #07d2ff;
