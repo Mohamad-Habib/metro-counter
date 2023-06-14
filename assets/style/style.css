@@ -33,13 +33,11 @@ h2 {
 }
 #reset-btn{
     background: #880000;
-    border-radius: 7px;
 }
 #delete-btn{
     background: #07d2ff;
-    border-radius: 7px;
 }
-#increment-btn:hover, #save-btn:hover, #delete-btn:hover{
+#increment-btn:hover, #save-btn:hover, #delete-btn:hover , #reset-btn:hover{
     opacity: 0.6;
 }
 #save-el , #counter-el {
