@@ -17,7 +17,7 @@ h1 {
 h2 {
     margin-bottom: 20px;
 }
-#increment-btn , #save-btn, #reset-btn #delete-btn{
+#increment-btn , #save-btn, #reset-btn, #delete-btn{
     border: none;
     padding: 10px 5px;
     color: #fff;
